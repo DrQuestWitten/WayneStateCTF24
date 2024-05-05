@@ -1,0 +1,6 @@
+flag1 = username (wwwdata)
+flag2 = in user's directory .flag2 (YouGotIt)
+flag3 = in root's dir (rollingNow)
+flag4 = in /var/www/html/findMe/flag4 (foundDahWebFlag)
+flag5 = in index.html (InDahGameNow)
+
