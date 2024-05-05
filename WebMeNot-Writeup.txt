@@ -1,0 +1,10 @@
+flag 1 = iloveyou (find a login) 
+flag 2 = youFoundDahFlag  (found in /var/www/html/extra flag2) 
+flag 3 = WayneStateUniversity  rot13cipher (found in source code)
+flag 4 = detroitMichigan   (found in /var/www/html/spock   ZGV0cm9pdE1pY2hpZ2Fu)
+flag 5 = WSU-Warriors (/var/www/html/doug) uses .htaccess  
+
+web user in .htaccess (/var/www/html/project)
+   admin iloveyou
+       htpasswd in /var/www/html/bin/.passwd
+
